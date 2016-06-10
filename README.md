@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spring Data Gemfire - Standalone Template
 ================================================================================
 
@@ -16,3 +17,7 @@ For help please take a look at the Spring Data Gemfire documentation:
 
 http://www.springsource.org/spring-gemfire
 
+=======
+# springgenfire
+Project regarding Spring and Gemfire
+>>>>>>> 2118dde94dd3d85f539ee4014167d5ab6a6cf8d2
